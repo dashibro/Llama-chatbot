@@ -1,0 +1,5 @@
+#To use Llama chatbot in your Desktop There are few requirments:
+1.install ollama on your desktop (for ollama form ollama.com)
+2.install llama3.2 on your terminal:
+  After downloading ollama go to your terminal and command: ollama run llama3.2
+#This will install llama ai in your desktop now you can run the llama chatbot👍.
